@@ -29,18 +29,18 @@ A Python GUI-based Bank Management System using **Tkinter** and **MySQL**. This 
 Below are some screenshots of the application's user interface and functionality:
 
 ### 🏠 Main Menu
-![Main Menu](Bank_Management_System/Screenshots/Screenshot 2025-04-13 154857.png)
+![Main Menu](https://github.com/MahisagarKadam/Bank-Management-System/blob/main/Screenshots/Screenshot%202025-04-13%20154857.png)
 
 ### 📝 Open New Account
-![Open Account](Bank_Management_System/Screenshots/Screenshot 2025-04-13 154947.png)
+![Open Account](https://github.com/MahisagarKadam/Bank-Management-System/blob/main/Screenshots/Screenshot%202025-04-13%20154947.png)
 
 ### 💰 Deposit Amount
-![Deposit](Bank_Management_System/Screenshots/Screenshot 2025-04-13 155019.png)
+![Deposit](https://github.com/MahisagarKadam/Bank-Management-System/blob/main/Screenshots/Screenshot%202025-04-13%20155019.png)
 
 ### 📄 Account Details
-![Account Details](Bank_Management_System/Screenshots/Screenshot 2025-04-13 155108.png)
+![Account Details](https://github.com/MahisagarKadam/Bank-Management-System/blob/main/Screenshots/Screenshot%202025-04-13%20155108.png)
 
 ### 💸 Database
-![Withdraw](Bank_Management_System/Screenshots/Screenshot 2025-04-13 155305.png)
+![Withdraw](https://github.com/MahisagarKadam/Bank-Management-System/blob/main/Screenshots/Screenshot%202025-04-13%20155305.png)
 
 
